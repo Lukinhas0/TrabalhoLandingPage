@@ -14,7 +14,7 @@ body {
 
 /* Header */
 header {
-    background-color: #3189e0;
+    background-color: #3e860e;
     color: white;
     padding: 1rem;
     display: flex;
@@ -45,7 +45,7 @@ nav ul {
     margin: 0;
     gap: 15px;
     align-items: center; 
-    background-color: #3189e0;
+    background-color: #0e6e1e;
     color: white;
     height: 70px;
 }
@@ -104,7 +104,7 @@ header .btn-primary {
     align-items: center;
     flex-direction: column;
     padding: 4rem 2rem;
-    background: #003d7a;
+    background: #045716;
     color: white;
     text-align: center;
     position: relative;
@@ -218,7 +218,7 @@ header .btn-primary {
 
 /* Call to Action Section */
 .cta {
-    background: #007bff;
+    background: #3e860e;
     color: white;
     text-align: center;
     padding: 2rem;
@@ -254,7 +254,7 @@ header .btn-primary {
 
 /* Footer */
 footer {
-    background-color: #003d7a;
+    background-color: #007a25;
     color: white;
     padding: 1rem;
     text-align: center;
